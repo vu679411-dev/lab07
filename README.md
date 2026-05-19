@@ -7,6 +7,8 @@ https://drive.google.com/drive/u/2/folders/1YIJKL8c5ZA9aftZAkE7aGta2FfGzKtc5
 
 <img width="692" height="389" alt="image" src="https://github.com/user-attachments/assets/e0b73f06-3785-495a-93fa-986d6f4ee03e" />
 <img width="692" height="389" alt="image" src="https://github.com/user-attachments/assets/09b5c624-b028-483a-ac6b-f4a0034e8003" />
+<img width="692" height="389" alt="image" src="https://github.com/user-attachments/assets/5dd4be60-8c37-4bc4-94a0-558a63bc22e6" />
+<img width="692" height="389" alt="image" src="https://github.com/user-attachments/assets/52d42c6a-ccc5-4c74-9afd-f0277d401508" />
 
 
 A new Flutter project.
